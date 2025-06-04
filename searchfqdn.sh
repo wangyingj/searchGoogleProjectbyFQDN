@@ -2,7 +2,7 @@
 
 # Script to resolve FQDNs to IPs and search for them in GCP organization
 # Created: Wednesday, June 4, 2025
-# Author: System Administrator
+# Author: wangyingj
 
 # Define single log file
 LOG_FILE="fqdn_ip_search_results_$(date +%Y%m%d_%H%M%S).log"
